@@ -77,9 +77,9 @@ namespace ClassWork_07
                 */
 
                 // 5 - Variant with Monitor
-                Monitor.Enter(forCounter);
-                Counter++;
-                Monitor.Exit(forCounter);
+                //Monitor.Enter(forCounter);
+                //Counter++;
+                //Monitor.Exit(forCounter);
 
             }
             //semaphore.Release();

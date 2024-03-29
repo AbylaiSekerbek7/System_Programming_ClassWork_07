@@ -1,0 +1,11 @@
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\bin\Debug\ClassWork_07_02.exe.config
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\bin\Debug\ClassWork_07_02.exe
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\bin\Debug\ClassWork_07_02.pdb
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\obj\Debug\ClassWork_07_02.csproj.AssemblyReference.cache
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\obj\Debug\ClassWork_07_02.csproj.SuggestedBindingRedirects.cache
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\obj\Debug\ClassWork_07_02.Form1.resources
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\obj\Debug\ClassWork_07_02.Properties.Resources.resources
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\obj\Debug\ClassWork_07_02.csproj.GenerateResource.cache
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\obj\Debug\ClassWork_07_02.csproj.CoreCompileInputs.cache
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\obj\Debug\ClassWork_07_02.exe
+Z:\SP\SP_ClassWorks\ClassWork_07\ClassWork_07_02\obj\Debug\ClassWork_07_02.pdb
